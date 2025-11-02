@@ -1,0 +1,17 @@
+streamlit
+pillow
+langchain==0.2.14
+langchain-community
+langchain-groq
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+huggingface-hub
+pypdf
+numpy
+pandas
+scikit-learn
+scipy
+tqdm
+requests
+
